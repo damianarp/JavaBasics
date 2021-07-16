@@ -6,9 +6,6 @@ Este repositorio contiene una introducción a los conceptos básicos de la progr
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 
 _Deberás instalar un JDK y algún IDE como IntelliJ Idea para poder desarrollar en Java._
